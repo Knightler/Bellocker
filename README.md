@@ -1,4 +1,10 @@
-# 🔔 Bellocker — your intelligent AdBlocker
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Knightler/Bellocker/main/assets/icon.png" alt="Bellocker Logo" width="400"/>
+  <br/>
+  <b>Bellocker — your intelligent AdBlocker</b>
+</p>
+
+# Bellocker — your intelligent AdBlocker
 
 **Bellocker** is an AI-powered browser extension that doesn’t just block ads — it understands them.
 
