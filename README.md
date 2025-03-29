@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon.png" alt="Bellocker Logo" width="600"/>
+  <img src="assets/icon1.png" alt="Bellocker Logo" width="600"/>
 </p>
 
 # Bellocker — your intelligent AdBlocker
